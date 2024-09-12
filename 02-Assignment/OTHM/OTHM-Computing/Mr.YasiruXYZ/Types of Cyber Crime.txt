@@ -1,0 +1,51 @@
+Types of Cyber Crime
+
+
+Hacking
+Phishing
+Denial of Service
+Spam Email
+Spyware, Adware
+Malware (Trojan, Virus, Worms etc.)
+ATM Skimming and Point of Scale Crimes • Ransomware
+
+
+-------
+
+
+Hacking
+
+Hacking in simple terms means an illegal intrusion into a computer system and/or network.
+It is also known as cracking. Government websites are the hot targets of the hackers due to the press coverage, it receives.
+
+------
+
+
+Phishing
+
+Phishing is a fraudulent attempt, usually made through email, to steal your personal information.
+
+Phishing is the attempt to obtain sensitive information such as username, password and credit card details, often for malicious reasons through an electronic communication (such as E-mail).
+A common online phishing scam starts with an email message that appears to come from a trusted source(legitimate site) but actually directs recipients to provide information to a fraudulent web site.
+
+
+-------
+
+
+Send out thousands of phishing emails with link to fake website.
+Victims click on link in email believing it is legitimate. They enter personal information.
+PHISHING
+Build fake site.
+Fraudsters
+Fraudsters compile
+the stolen data and sell it online or use it themselves.
+
+
+------------
+
+
+Malware
+• It's malicious software (such as Virus, Worms & Trojan), which specifically designed to disrupt or damage computer system or mobile device.
+⚫ Hackers use malware for any number of reasons such as, extracting personal information or passwords, stealing money, or preventing owners from accessing their device.
+• Viruses are programs that attach themselves to a computer or a file and then circulate themselves to other files and to other computers on a network. They usually affect the data on a computer and mobile device either by altering or deleting it.
+
