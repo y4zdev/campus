@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 OTHM Level 3 (2023-09-15 – 2027-07-08)  
+## 📚 OTHM Level 3 (2023-09-15 – 2024-07-08)  
 A structured collection of subjects covered under the OTHM Level 3 qualification:
 
 - 📖 **Accounting** [View »](OTHM/Accounting/)
