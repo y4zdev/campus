@@ -27,5 +27,4 @@ Courses included in the first semester of the HD Net Cyber program:
 5. 🌐 **Networking Concepts** (CNT4008) [View »](/HDNET/SEM1/Networking/)
 
 ---
-
 ✅ **Boost your learning with clear knowledge. Stay ahead and keep learning!** 🚀
