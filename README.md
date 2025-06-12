@@ -5,7 +5,7 @@
 
 ---
 
-## 📚 OTHM Level 3 (2023-09-15 – 2027-07-08)  
+## 📚 OTHM Level 3 (2023-09-15 – 2024-07-08)  
 A structured collection of subjects covered under the OTHM Level 3 qualification:
 
 - 📖 **Accounting** [View »](OTHM/Accounting/)
@@ -27,5 +27,4 @@ Courses included in the first semester of the HD Net Cyber program:
 5. 🌐 **Networking Concepts** (CNT4008) [View »](/HDNET/SEM1/Networking/)
 
 ---
-
 ✅ **Boost your learning with clear knowledge. Stay ahead and keep learning!** 🚀
